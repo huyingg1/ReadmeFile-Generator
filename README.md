@@ -33,7 +33,7 @@ Contributing standard
 
 ## Tests
 
-A video link will be uploaded later
+[Example Video](https://drive.google.com/file/d/1qFXzH6CiuMJ2zEx-zP-P6EO6YYU9N0gX/view?usp=share_link)
 
 ## Questions
 
